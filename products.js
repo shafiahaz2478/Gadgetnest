@@ -29,6 +29,12 @@ const PRODUCTS = [
         image: "assets/coffee-cup.jpeg",
         link: "https://amzn.to/4udFRI8",  // <-- Replace with your affiliate link
         category: "lifestyle"
+    },
+{
+        name: "Product",
+        image: "assets/fan.jpeg",
+        link: "https://amzn.to/4udFRI8",  // <-- Replace with your affiliate link
+        category: "lifestyle"
     }
     // ──────────────────────────────────────────────
     //  ADD MORE PRODUCTS BELOW — just copy the block:
